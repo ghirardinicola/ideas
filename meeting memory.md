@@ -1,4 +1,4 @@
-# Mobile Meeting Memory
+# Meeting Memory
 
 Registri un incontro sul telefono. Qualche minuto dopo trovi la trascrizione testuale già salvata nella tua knowledge base. Nessun copia-incolla, nessun intervento manuale.
 
